@@ -11,6 +11,14 @@
     android:background="#ff99d9ea"
     >
 
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="65dp"
+        android:id="@+id/imageButton3"
+        android:background="@drawable/yelp_logo_100x50"
+        android:layout_above="@+id/imageButton1"
+        android:layout_alignRight="@+id/textView1"
+        android:layout_alignEnd="@+id/textView1" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -39,6 +47,9 @@
         android:layout_height="wrap_content"
         android:id="@+id/imageButton"
         android:background="@drawable/grubit_title2"
-        android:layout_centerHorizontal="true" />
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
 
 </RelativeLayout>

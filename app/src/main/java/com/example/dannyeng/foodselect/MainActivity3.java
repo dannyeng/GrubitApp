@@ -9,29 +9,23 @@ import android.view.View;
 import android.widget.ImageButton;
 
 
-public class MainActivity2 extends ActionBarActivity {
+public class MainActivity3 extends ActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main_activity2);
+        setContentView(R.layout.activity_main_activity3);
 
-        // the info page button which lets you go back to the main page.
-        // button is the title (REMINDER)
-        //**no idea what i want this page to do, maybe some information page
 
-        ImageButton pushMe3 = (ImageButton)findViewById(R.id.imageButton2);
 
-        pushMe3.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
+        ImageButton backhome = (ImageButton)findViewById(R.id.imageButton4);
 
+        backhome.setOnClickListener(new View.OnClickListener(){
+
+            public void onClick(View view){
                 startActivity(new Intent(getApplicationContext(),MainActivity.class));
-
-
             }
         });
-
 
     }
 
@@ -39,10 +33,9 @@ public class MainActivity2 extends ActionBarActivity {
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_main_activity2, menu);
+        getMenuInflater().inflate(R.menu.menu_main_activity3, menu);
         return true;
     }
-
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
