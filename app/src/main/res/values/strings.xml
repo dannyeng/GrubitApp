@@ -11,5 +11,6 @@
     <string name="calling_activity_message">The calling activity was</string>
     <string name="title_activity_main_activity2">MainActivity2</string>
     <string name="title_activity_main_activity3">MainActivity3</string>
+    <string name="title_activity_splash">Grubit</string>
 
 </resources>
