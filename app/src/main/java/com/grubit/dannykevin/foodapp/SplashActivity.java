@@ -7,8 +7,6 @@ import android.util.Log;
 import android.view.Window;
 import android.view.WindowManager;
 
-import com.example.dannyeng.foodselect.R;
-
 
 public class SplashActivity extends ActionBarActivity {
 

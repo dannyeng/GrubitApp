@@ -8,7 +8,6 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageButton;
 
-import com.example.dannyeng.foodselect.R;
 import com.google.android.gms.maps.*;
 import com.google.android.gms.maps.model.*;
 import java.io.IOException;

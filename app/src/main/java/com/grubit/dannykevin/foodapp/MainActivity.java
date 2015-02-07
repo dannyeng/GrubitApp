@@ -1,6 +1,5 @@
 package com.grubit.dannykevin.foodapp;
 
-import com.example.dannyeng.foodselect.R;
 
 import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;

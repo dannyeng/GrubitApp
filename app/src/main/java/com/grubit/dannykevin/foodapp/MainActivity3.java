@@ -21,7 +21,6 @@ import java.io.IOException;
 import android.os.AsyncTask;
 import android.net.Uri;
 
-import com.example.dannyeng.foodselect.R;
 
 
 public class MainActivity3 extends ActionBarActivity {
