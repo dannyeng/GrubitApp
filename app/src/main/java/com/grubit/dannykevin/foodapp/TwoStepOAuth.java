@@ -1,4 +1,4 @@
-package com.example.dannyeng.foodselect;
+package com.grubit.dannykevin.foodapp;
 
 import org.scribe.builder.api.DefaultApi10a;
 import org.scribe.model.Token;

@@ -1,13 +1,13 @@
-package com.example.dannyeng.foodselect;
+package com.grubit.dannykevin.foodapp;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.content.Intent;
 import android.util.Log;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.view.Window;
 import android.view.WindowManager;
+
+import com.example.dannyeng.foodselect.R;
 
 
 public class SplashActivity extends ActionBarActivity {

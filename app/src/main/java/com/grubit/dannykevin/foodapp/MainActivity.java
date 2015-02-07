@@ -1,9 +1,8 @@
-package com.example.dannyeng.foodselect;
+package com.grubit.dannykevin.foodapp;
 
-import com.example.dannyeng.foodselect.YelpAPI;
-import com.example.dannyeng.foodselect.MyLocation;
+import com.example.dannyeng.foodselect.R;
+
 import android.content.Intent;
-import android.util.Log;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
@@ -14,11 +13,6 @@ import android.os.AsyncTask;
 import android.content.Context;
 import android.location.Location;
 import android.location.LocationManager;
-import android.location.LocationListener;
-import android.location.LocationProvider;
-
-
-import com.beust.jcommander.JCommander;
 
 
 public class MainActivity extends ActionBarActivity {

@@ -1,4 +1,4 @@
-package com.example.dannyeng.foodselect;
+package com.grubit.dannykevin.foodapp;
 
 import android.content.Context;
 import android.location.Location;

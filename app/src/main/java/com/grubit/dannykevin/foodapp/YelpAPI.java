@@ -1,6 +1,4 @@
-package com.example.dannyeng.foodselect;
-
-import android.util.Log;
+package com.grubit.dannykevin.foodapp;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
@@ -12,12 +10,6 @@ import org.scribe.model.Response;
 import org.scribe.model.Token;
 import org.scribe.model.Verb;
 import org.scribe.oauth.OAuthService;
-import java.util.Map;
-
-import com.beust.jcommander.JCommander;
-import com.beust.jcommander.Parameter;
-
-import javax.xml.parsers.ParserConfigurationException;
 
 /**
  * Code sample for accessing the Yelp API V2.

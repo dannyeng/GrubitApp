@@ -1,15 +1,14 @@
-package com.example.dannyeng.foodselect;
+package com.grubit.dannykevin.foodapp;
 
-import android.content.Context;
 import android.content.Intent;
-import android.location.Location;
-import android.location.LocationManager;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageButton;
+
+import com.example.dannyeng.foodselect.R;
 import com.google.android.gms.maps.*;
 import com.google.android.gms.maps.model.*;
 import java.io.IOException;
@@ -17,7 +16,6 @@ import java.util.List;
 import android.location.Address;
 import android.location.Geocoder;
 import android.os.AsyncTask;
-import android.util.Log;
 
 public class MainActivity2 extends ActionBarActivity implements OnMapReadyCallback{
     MapFragment mapFragment;

@@ -1,4 +1,4 @@
-package com.example.dannyeng.foodselect;
+package com.grubit.dannykevin.foodapp;
 
 import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
@@ -17,9 +17,11 @@ import android.graphics.BitmapFactory;
 import java.io.InputStream;
 import java.net.MalformedURLException;
 import java.io.IOException;
-import android.graphics.drawable.Drawable;
+
 import android.os.AsyncTask;
 import android.net.Uri;
+
+import com.example.dannyeng.foodselect.R;
 
 
 public class MainActivity3 extends ActionBarActivity {

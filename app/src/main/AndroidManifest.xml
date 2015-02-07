@@ -14,18 +14,18 @@
         android:label="@string/app_name"
         android:theme="@style/Theme.AppCompat.NoActionBar" >
         <activity
-            android:name=".MainActivity"
+            android:name="com.grubit.dannykevin.foodapp.MainActivity"
             android:label="@string/app_name"
             android:screenOrientation="portrait" >
 
         </activity>
         <activity
-            android:name=".MainActivity2"
+            android:name="com.grubit.dannykevin.foodapp.MainActivity2"
             android:label="@string/title_activity_main_activity2"
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name=".MainActivity3"
+            android:name="com.grubit.dannykevin.foodapp.MainActivity3"
             android:label="@string/title_activity_main_activity3"
             android:screenOrientation="portrait" >
         </activity>
@@ -38,7 +38,7 @@
             android:value="AIzaSyDnOXkyKOgGS0iNTXVhca4IBmc1vw8C2z4" />
 
         <activity
-            android:name=".SplashActivity"
+            android:name="com.grubit.dannykevin.foodapp.SplashActivity"
             android:label="@string/title_activity_splash"
             android:screenOrientation="portrait">
             <intent-filter>

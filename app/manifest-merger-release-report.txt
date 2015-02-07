@@ -47,7 +47,7 @@ MERGED from com.android.support:support-v4:21.0.3:16:5
 		ADDED from AndroidManifest.xml:13:9
 	android:theme
 		ADDED from AndroidManifest.xml:15:9
-activity#com.example.dannyeng.foodselect.MainActivity
+activity#com.grubit.dannykevin.foodapp.MainActivity
 ADDED from AndroidManifest.xml:16:9
 	android:screenOrientation
 		ADDED from AndroidManifest.xml:19:13
@@ -55,7 +55,7 @@ ADDED from AndroidManifest.xml:16:9
 		ADDED from AndroidManifest.xml:18:13
 	android:name
 		ADDED from AndroidManifest.xml:17:13
-activity#com.example.dannyeng.foodselect.MainActivity2
+activity#com.grubit.dannykevin.foodapp.MainActivity2
 ADDED from AndroidManifest.xml:22:9
 	android:screenOrientation
 		ADDED from AndroidManifest.xml:25:13
@@ -63,7 +63,7 @@ ADDED from AndroidManifest.xml:22:9
 		ADDED from AndroidManifest.xml:24:13
 	android:name
 		ADDED from AndroidManifest.xml:23:13
-activity#com.example.dannyeng.foodselect.MainActivity3
+activity#com.grubit.dannykevin.foodapp.MainActivity3
 ADDED from AndroidManifest.xml:27:9
 	android:screenOrientation
 		ADDED from AndroidManifest.xml:30:13
@@ -84,7 +84,7 @@ ADDED from AndroidManifest.xml:36:9
 		ADDED from AndroidManifest.xml:37:13
 	android:value
 		ADDED from AndroidManifest.xml:38:13
-activity#com.example.dannyeng.foodselect.SplashActivity
+activity#com.grubit.dannykevin.foodapp.SplashActivity
 ADDED from AndroidManifest.xml:40:9
 	android:screenOrientation
 		ADDED from AndroidManifest.xml:43:13
