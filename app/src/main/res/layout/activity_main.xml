@@ -27,7 +27,7 @@
         android:text="@string/level_greeting"
         android:id="@+id/textView1"
         android:textColor="#ffffff"
-        android:textSize="22sp"
+        android:textSize="20sp"
         android:focusable="false"
         android:typeface="normal"
         android:textStyle="bold"

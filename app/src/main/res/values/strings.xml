@@ -4,7 +4,7 @@
     <string name="app_name">Grubit</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-    <string name="level_greeting">So what are we having today?</string>
+    <string name="level_greeting">What are we having today?</string>
     <string name="btn_1">Grubit!</string>
     <string name="enter_name_text_view">Enter Your Name</string>
     <string name="enter_name_button">Enter</string>
